@@ -1,3 +1,7 @@
-os/code/target/*
+os/code/os/target/*
+os/code/os/target/
 database/code/__pycache__
 *.class
+__pycache__/
+*.py[cod]
+*$py.class
